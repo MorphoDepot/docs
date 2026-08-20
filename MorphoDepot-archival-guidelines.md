@@ -22,7 +22,7 @@ If you only want to deposit a scan, use a scan archive. If you want to build, la
 
 You choose the dataset type when you create it. The choice is permanent.
 
-| | Short-term | Archival (this guide) |
+| | Personal | Archival (this guide) |
 |---|---|---|
 | Who can create | anyone | org members only |
 | Where it lives | your personal GitHub account | the MorphoDepot organization |
@@ -31,7 +31,7 @@ You choose the dataset type when you create it. The choice is permanent.
 | Governance | yours alone, delete anytime | community-governed |
 | Best for | teaching, drafts, experiments | lasting, citable datasets |
 
-The two types never cross. There are no citable personal datasets. There are no disposable organization datasets. Membership unlocks the archival type. It does not force it. As a member you can still make short-term datasets for casual or classroom work.
+The two types never cross. There are no citable personal datasets. There are no disposable organization datasets. Membership unlocks the archival type. It does not force it. As a member you can still make personal repositories for casual or classroom work or other types of short-term activities.
 
 The rest of this guide is about archival datasets.
 
@@ -72,7 +72,7 @@ An archival dataset is a shared resource under joint stewardship. That brings tr
 
 **Accuracy is the community's job, and it improves over time.** Publishing certifies that a dataset is sound and usable. It does not certify that the dataset is finished. If a segmentation can be improved, contributors correct and extend it. That is the point.
 
-If you want full control and the ability to delete at any time, use a short-term personal dataset. Archival means shared.
+If you want full control and the ability to delete at any time, create a personal repository. Archival means co-governed.
 
 ---
 
