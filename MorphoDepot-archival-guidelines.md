@@ -110,7 +110,7 @@ A repository may publish as a bare scan with no segmentation. This lets the comm
 
 ### Provide a license and a screenshot
 
-Choose a license when you create the repository. The options are CC BY 4.0 and CC BY-NC 4.0. Include at least one screenshot of the data. Having a screenshot is a hard check. The screenshot must show the data. If the repository contains a segmentation, the screenshot must show that too. The reviewer checks this, so a blank or unrelated image will not pass. A good screenshot lets reviewers and readers see what the dataset is at a glance.
+Choose a license when you create the repository. The options are CC BY 4.0 and CC BY-NC 4.0. Include at least one screenshot of the data. Having a screenshot is a hard check. The screenshot must show the data. If the repository contains a segmentation, the screenshot must show that too. The reviewer checks this, so a blank or unrelated image will not pass. A good screenshot lets reviewers and readers see what the repository contains at a glance.
 
 ---
 
